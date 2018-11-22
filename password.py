@@ -1,6 +1,6 @@
 #password
 #password = a123456
-password = 'a123456'
+password = 'no33456789'
 y = 3 #剩餘次數
 while y > 0:#當剩餘次數大於0次執行迴圈
 	y = y - 1#當失敗的時候剩餘次數遞減
